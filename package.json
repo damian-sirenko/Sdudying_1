@@ -1,11 +1,11 @@
 {
-  "name": "Stadying_1",
+  "name": "Studying_1",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Stadying_1/",
+    "build": "vite build --base=/Studying_1/",
     "preview": "vite preview"
   },
   "devDependencies": {
